@@ -1,7 +1,7 @@
 # Stat_342_Project
 Project from Stat 342 UW
 
-Abstract
+Abstract \n
 
 In this paper, we investigated the efficacy of the Pfizer COVID-19 vaccine using data collected
 from the Pfizer vaccine trial from 2020. In particular, we used three avenues of inference to validate/analyze
